@@ -2,7 +2,7 @@
 
 It adds various modern missile launchers, missiles, guns and sensors, most of them to be used on warships.
 
-## Contents
+## Malfunc Industries
 
 ### Guns:
 
@@ -29,7 +29,17 @@ It adds various modern missile launchers, missiles, guns and sensors, most of th
 * STIR(Seperate Target Illumination Radar)
 
 * SMART-S Search Radar
+-------------------------------------------------------
+  
+## Promethium Experimental Weaponry
 
+### Guns:
+
+*  M242 Bushmaster
+  
+*  T90MA
+
+*  Eland 90
 -------------------------------------------------------
 
 The original Malfunc can be found [here](https://forum.kerbalspaceprogram.com/topic/132330-112bda-01101-malfunc-weaponry-r09mk29-launcher-and-friends-may-04/#comments)
