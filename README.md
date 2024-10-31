@@ -43,4 +43,6 @@ It adds various modern missile launchers, missiles, guns and sensors, most of th
 -------------------------------------------------------
 
 The original Malfunc can be found [here](https://forum.kerbalspaceprogram.com/topic/132330-112bda-01101-malfunc-weaponry-r09mk29-launcher-and-friends-may-04/#comments)
+The original Malfunc can be found [here](https://spacedock.info/mod/237/P.E.W)
+
 Have fun!
