@@ -29,7 +29,6 @@ It adds various modern missile launchers, missiles, guns and sensors, most of th
 * STIR(Seperate Target Illumination Radar)
 
 * SMART-S Search Radar
--------------------------------------------------------
   
 ## Promethium Experimental Weaponry
 
