@@ -1,14 +1,14 @@
-Presenting to you, the revival of an addon for BDArmory:
+**Presenting to you, the revival of an addon for BDArmory**
 
 It adds various modern missile launchers, missiles, guns and sensors, most of them to be used on warships.
 
-It adds:
-
-#Guns:
+## Contents
+-------------------------------------------------------
+### Guns:
 
 -Phalanx CIWS
 
-#Launching Systems:
+### Launching Systems:
 
 -MK-49 Rolling Airframe Missile Launcher
 
@@ -22,13 +22,15 @@ It adds:
 
 -RIM-162 Evolved Sea Sparrow Missile/Capped
 
-#Radars:
+### Radars:
 
 -APAR(Active Phased Array Radar)
 
 -STIR(Seperate Target Illumination Radar)
 
 -SMART-S Search Radar
+
+-------------------------------------------------------
 
 The original Malfunc can be found [here](https://forum.kerbalspaceprogram.com/topic/132330-112bda-01101-malfunc-weaponry-r09mk29-launcher-and-friends-may-04/#comments)
 Have fun!
