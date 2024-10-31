@@ -3,32 +3,32 @@
 It adds various modern missile launchers, missiles, guns and sensors, most of them to be used on warships.
 
 ## Contents
--------------------------------------------------------
+
 ### Guns:
 
--Phalanx CIWS
+* Phalanx CIWS
 
 ### Launching Systems:
 
--MK-49 Rolling Airframe Missile Launcher
+* MK-49 Rolling Airframe Missile Launcher
 
--SeaRAM Launcher
+* SeaRAM Launcher
 
--MK29 Sea Sparrow/ESSM Launcher
+* MK29 Sea Sparrow/ESSM Launcher
 
 #Missiles:
 
--RIM-116 Rolling Airframe Missile
+* RIM-116 Rolling Airframe Missile
 
--RIM-162 Evolved Sea Sparrow Missile/Capped
+* RIM-162 Evolved Sea Sparrow Missile/Capped
 
 ### Radars:
 
--APAR(Active Phased Array Radar)
+* APAR(Active Phased Array Radar)
 
--STIR(Seperate Target Illumination Radar)
+* STIR(Seperate Target Illumination Radar)
 
--SMART-S Search Radar
+* SMART-S Search Radar
 
 -------------------------------------------------------
 
