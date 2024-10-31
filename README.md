@@ -34,11 +34,12 @@ It adds various modern missile launchers, missiles, guns and sensors, most of th
 
 ### Guns:
 
-*  M242 Bushmaster
-  
-*  T90MA
+*  M242 Bushmaster | [IMAGE](https://github.com/user-attachments/assets/8d59fc13-bd40-4844-8850-7659f6d1687f)
 
-*  Eland 90
+*  T90MA | [IMAGE](https://github.com/user-attachments/assets/52c2d04c-64ee-44d2-a1ee-2d1dbf0c50ec)
+
+*  Eland 90 | [IMAGE](https://github.com/user-attachments/assets/e6a07f93-4d7b-47b2-b857-ed51185edb7f)
+
 -------------------------------------------------------
 
 The original Malfunc can be found [here](https://forum.kerbalspaceprogram.com/topic/132330-112bda-01101-malfunc-weaponry-r09mk29-launcher-and-friends-may-04/#comments)
