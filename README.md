@@ -18,7 +18,7 @@ It adds various modern missile launchers, missiles, guns and sensors, most of th
 
 ### Missiles:
 
-* RIM-116 Rolling Airframe Missile [image](https://github.com/user-attachments/assets/7b52610e-9479-4fbe-96c6-89dd1d76e1ea)
+* RIM-116 Rolling Airframe Missile | [IMAGE](https://github.com/user-attachments/assets/7b52610e-9479-4fbe-96c6-89dd1d76e1ea)
 
 * RIM-162 Evolved Sea Sparrow Missile/Capped
 
