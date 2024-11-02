@@ -34,7 +34,7 @@ It adds various modern missile launchers, missiles, guns and sensors, most of th
 
 ### Guns:
 
-*  M242 Bushmaster | [IMAGE](https://github.com/user-attachments/assets/8d59fc13-bd40-4844-8850-7659f6d1687f)
+*  M2 Bradley / TOW | [IMAGE](https://github.com/user-attachments/assets/8d59fc13-bd40-4844-8850-7659f6d1687f)
 
 *  T90MA | [IMAGE](https://github.com/user-attachments/assets/52c2d04c-64ee-44d2-a1ee-2d1dbf0c50ec)
 
