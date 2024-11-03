@@ -20,29 +20,29 @@ It adds various modern missile launchers, missiles, guns and sensors, most of th
 
 ### Missiles:
 
-* RIM-116 Rolling Airframe Missile | [IMAGE](https://github.com/user-attachments/assets/7b52610e-9479-4fbe-96c6-89dd1d76e1ea)
+* [IMAGE](https://github.com/user-attachments/assets/7b52610e-9479-4fbe-96c6-89dd1d76e1ea) | RIM-116 Rolling Airframe Missile 
 
-* RIM-162 Evolved Sea Sparrow Missile/Capped | [IMAGE](https://github.com/user-attachments/assets/17506811-c22e-4824-8573-2fdbc79d0147)
+* [IMAGE](https://github.com/user-attachments/assets/17506811-c22e-4824-8573-2fdbc79d0147) | RIM-162 Evolved Sea Sparrow Missile/Capped 
 
 
 ### Radars:
 
-* APAR(Active Phased Array Radar) | [IMAGE](https://github.com/user-attachments/assets/68a9c3c1-de48-402c-aef2-e8d5f5a7121b)
+* [IMAGE](https://github.com/user-attachments/assets/68a9c3c1-de48-402c-aef2-e8d5f5a7121b) | APAR(Active Phased Array Radar) 
 
-* STIR(Seperate Target Illumination Radar) | [IMAGE](https://github.com/user-attachments/assets/d666df92-6570-4482-b69d-ff8b937fa1fb)
+* [IMAGE](https://github.com/user-attachments/assets/d666df92-6570-4482-b69d-ff8b937fa1fb) | STIR(Seperate Target Illumination Radar)
 
-* SMART-S Search Radar | [IMAGE](https://github.com/user-attachments/assets/b780c39d-85d1-4a0e-8514-2ff532fa2618)
+* [IMAGE](https://github.com/user-attachments/assets/b780c39d-85d1-4a0e-8514-2ff532fa2618) | SMART-S Search Radar
 
   
 ## Promethium Experimental Weaponry
 
 ### Guns:
 
-*  M2 Bradley / TOW | [IMAGE](https://github.com/user-attachments/assets/8d59fc13-bd40-4844-8850-7659f6d1687f)
+*  [IMAGE](https://github.com/user-attachments/assets/2b7f70f9-dc16-405c-b726-bbd581bb62b2) | M2 Bradley / TOW
 
-*  T90MA | [IMAGE](https://github.com/user-attachments/assets/52c2d04c-64ee-44d2-a1ee-2d1dbf0c50ec)
+*  [IMAGE](https://github.com/user-attachments/assets/52c2d04c-64ee-44d2-a1ee-2d1dbf0c50ec) | T90MA
 
-*  Eland 90 | [IMAGE](https://github.com/user-attachments/assets/e6a07f93-4d7b-47b2-b857-ed51185edb7f)
+*  [IMAGE](https://github.com/user-attachments/assets/e6a07f93-4d7b-47b2-b857-ed51185edb7f) | Eland 90
 
 -------------------------------------------------------
 
