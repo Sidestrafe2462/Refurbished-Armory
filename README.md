@@ -27,9 +27,9 @@ It adds various modern missile launchers, missiles, guns and sensors, most of th
 
 ### Radars:
 
-* APAR(Active Phased Array Radar) | [IMAGE]
+* APAR(Active Phased Array Radar) | [IMAGE](https://github.com/user-attachments/assets/68a9c3c1-de48-402c-aef2-e8d5f5a7121b)
 
-* STIR(Seperate Target Illumination Radar) | [IMAGE]
+* STIR(Seperate Target Illumination Radar) | [IMAGE](https://github.com/user-attachments/assets/d666df92-6570-4482-b69d-ff8b937fa1fb)
 
 * SMART-S Search Radar | [IMAGE](https://github.com/user-attachments/assets/b780c39d-85d1-4a0e-8514-2ff532fa2618)
 
