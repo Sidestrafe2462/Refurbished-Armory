@@ -11,7 +11,8 @@ It adds various modern missile launchers, missiles, guns and sensors, most of th
 
 ### Launching Systems:
 
-* MK-49 Rolling Airframe Missile Launcher
+* [IMAGE](https://github.com/user-attachments/assets/001f9f5f-8b5e-4aa1-ae32-a3e604603197) | MK-49 Rolling Airframe Missile Launcher
+
 
 * [IMAGE](https://github.com/user-attachments/assets/8a59fc83-e7ab-4b9b-96d1-ffbb0604d0cc) | SeaRAM Launcher
 
