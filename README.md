@@ -1,6 +1,6 @@
 **Presenting to you, the revival of an addon for BDArmory**
 
-Malfunc added various modern missile launchers, missiles, guns and sensors, for use on warships. This mod updates them for the latest versions of BD armory.
+Malfunc and PEW added various modern missile launchers, missiles, guns and sensors, for use with BD armory. This mod updates them for the latest versions of the mod with some having completely new models
 
 ## Malfunc Industries
 
