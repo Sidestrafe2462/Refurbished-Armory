@@ -20,7 +20,8 @@ Malfunc added various modern missile launchers, missiles, guns and sensors, for 
 
 ### Missiles:
 
-* [IMAGE](https://github.com/user-attachments/assets/7b52610e-9479-4fbe-96c6-89dd1d76e1ea) | RIM-116 Rolling Airframe Missile 
+* [IMAGE](https://github.com/user-attachments/assets/68aca74d-cfb5-4526-8bf6-67efe12f9708) | RIM-116 Rolling Airframe Missile
+
 
 * [IMAGE](https://github.com/user-attachments/assets/17506811-c22e-4824-8573-2fdbc79d0147) | RIM-162 Evolved Sea Sparrow Missile/Capped 
 
