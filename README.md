@@ -13,7 +13,6 @@ Malfunc added various modern missile launchers, missiles, guns and sensors, for 
 
 * [IMAGE](https://github.com/user-attachments/assets/001f9f5f-8b5e-4aa1-ae32-a3e604603197) | MK-49 Rolling Airframe Missile Launcher
 
-
 * [IMAGE](https://github.com/user-attachments/assets/8a59fc83-e7ab-4b9b-96d1-ffbb0604d0cc) | SeaRAM Launcher
 
 * [IMAGE](https://github.com/user-attachments/assets/00a584f7-9c08-4735-9761-710b640533c5) | MK29 Sea Sparrow/ESSM Launcher
