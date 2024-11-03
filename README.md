@@ -27,11 +27,12 @@ It adds various modern missile launchers, missiles, guns and sensors, most of th
 
 ### Radars:
 
-* APAR(Active Phased Array Radar)
+* APAR(Active Phased Array Radar) | [IMAGE]
 
-* STIR(Seperate Target Illumination Radar)
+* STIR(Seperate Target Illumination Radar) | [IMAGE]
 
-* SMART-S Search Radar
+* SMART-S Search Radar | [IMAGE](https://github.com/user-attachments/assets/b780c39d-85d1-4a0e-8514-2ff532fa2618)
+
   
 ## Promethium Experimental Weaponry
 
