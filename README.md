@@ -14,13 +14,15 @@ It adds various modern missile launchers, missiles, guns and sensors, most of th
 
 * SeaRAM Launcher
 
-* MK29 Sea Sparrow/ESSM Launcher
+* MK29 Sea Sparrow/ESSM Launcher | [IMAGE](https://github.com/user-attachments/assets/00a584f7-9c08-4735-9761-710b640533c5)
+
 
 ### Missiles:
 
 * RIM-116 Rolling Airframe Missile | [IMAGE](https://github.com/user-attachments/assets/7b52610e-9479-4fbe-96c6-89dd1d76e1ea)
 
-* RIM-162 Evolved Sea Sparrow Missile/Capped
+* RIM-162 Evolved Sea Sparrow Missile/Capped | [IMAGE](https://github.com/user-attachments/assets/17506811-c22e-4824-8573-2fdbc79d0147)
+
 
 ### Radars:
 
