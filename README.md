@@ -45,6 +45,11 @@ Malfunc and PEW added various modern missile launchers, missiles, guns and senso
 
 *  [IMAGE](https://github.com/user-attachments/assets/e6a07f93-4d7b-47b2-b857-ed51185edb7f) | Eland 90
 
+## BD Armory
+
+### Countermeasures
+*  [IMAGE](https://github.com/user-attachments/assets/f37d0b04-a0b1-40b4-9099-69ca83b864f4) | Single ERA Block
+
 -------------------------------------------------------
 
 The original Malfunc can be found [here](https://forum.kerbalspaceprogram.com/topic/132330-112bda-01101-malfunc-weaponry-r09mk29-launcher-and-friends-may-04/#comments)
