@@ -6,13 +6,14 @@ It adds various modern missile launchers, missiles, guns and sensors, most of th
 
 ### Guns:
 
-* Phalanx CIWS
+* Phalanx CIWS | [IMAGE](https://github.com/user-attachments/assets/e5896160-426d-48ea-97ad-7424e84b5f19)
+
 
 ### Launching Systems:
 
 * MK-49 Rolling Airframe Missile Launcher
 
-* SeaRAM Launcher
+* SeaRAM Launcher | [IMAGE](https://github.com/user-attachments/assets/8a59fc83-e7ab-4b9b-96d1-ffbb0604d0cc)
 
 * MK29 Sea Sparrow/ESSM Launcher | [IMAGE](https://github.com/user-attachments/assets/00a584f7-9c08-4735-9761-710b640533c5)
 
