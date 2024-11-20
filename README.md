@@ -40,11 +40,11 @@ Malfunc and PEW added various modern missile launchers, missiles, guns and senso
 
 *  [IMAGE](https://github.com/user-attachments/assets/2b7f70f9-dc16-405c-b726-bbd581bb62b2) | M2 Bradley / TOW
 
+*  [IMAGE](https://github.com/user-attachments/assets/e6a07f93-4d7b-47b2-b857-ed51185edb7f) | Eland 90
+
 *  [IMAGE](https://github.com/user-attachments/assets/52c2d04c-64ee-44d2-a1ee-2d1dbf0c50ec) | T90MA
   
 *  [IMAGE](https://github.com/user-attachments/assets/392d43c3-4eb6-4995-bd96-211fc9c31696) | Challenger II
-
-*  [IMAGE](https://github.com/user-attachments/assets/e6a07f93-4d7b-47b2-b857-ed51185edb7f) | Eland 90
 
 ## BD Armory
 
