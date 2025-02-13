@@ -46,9 +46,18 @@ Malfunc and PEW added various modern missile launchers, missiles, guns and senso
   
 *  [IMAGE](https://github.com/user-attachments/assets/392d43c3-4eb6-4995-bd96-211fc9c31696) | Challenger II
 
+## KerbalField
+
+### Guns
+
+*  [IMAGE] | 2S25 Sprut
+
 ## BD Armory
 
 ### Countermeasures
+
+*  [IMAGE](https://github.com/user-attachments/assets/f37d0b04-a0b1-40b4-9099-69ca83b864f4) | Single ERA Block
+  
 *  [IMAGE](https://github.com/user-attachments/assets/f37d0b04-a0b1-40b4-9099-69ca83b864f4) | Single ERA Block
 
 -------------------------------------------------------
@@ -56,6 +65,8 @@ Malfunc and PEW added various modern missile launchers, missiles, guns and senso
 The original Malfunc can be found [here](https://forum.kerbalspaceprogram.com/topic/132330-112bda-01101-malfunc-weaponry-r09mk29-launcher-and-friends-may-04/#comments)
 
 The original P.E.W can be found [here](https://spacedock.info/mod/237/P.E.W)
+
+The full version of KerbalField can be found [here](https://spacedock.info/mod/1646/KerbalField)
 
 
 Have fun!
