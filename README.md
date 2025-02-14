@@ -58,7 +58,8 @@ Malfunc and PEW added various modern missile launchers, missiles, guns and senso
 
 *  [IMAGE](https://github.com/user-attachments/assets/f37d0b04-a0b1-40b4-9099-69ca83b864f4) | Single ERA Block
   
-*  [IMAGE](https://github.com/user-attachments/assets/f37d0b04-a0b1-40b4-9099-69ca83b864f4) | Single ERA Block
+*  [IMAGE](https://github.com/user-attachments/assets/eab87c20-18ab-4f6b-8689-3c98607ccfc5) | Small Smoke Dispenser
+
 
 -------------------------------------------------------
 
