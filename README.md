@@ -50,7 +50,7 @@ Malfunc and PEW added various modern missile launchers, missiles, guns and senso
 
 ### Guns
 
-*  [IMAGE] | 2S25 Sprut
+*  [IMAGE](https://github.com/user-attachments/assets/88a9ca12-74b0-4730-9e6e-6099e5d204f2) | 2S25 Sprut
 
 ## BD Armory
 
